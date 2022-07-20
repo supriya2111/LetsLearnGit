@@ -11,7 +11,7 @@ public class sum{
         a=sc.nextInt();
         b=sc.nextInt();
         c=a+b;
-        System.out.println("Sum is:"+c);
+        System.out.println("Adition of two numbers is:"+c);
     }
 
 }
